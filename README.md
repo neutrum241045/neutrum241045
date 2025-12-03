@@ -2,7 +2,7 @@
 
 ---
 
-<h2 align="center">I have experience with:</h2>
+## I have experience with:
 
 <p>
   <a href="https://www.python.org/">
